@@ -1,2 +1,2 @@
 # GH2_Repo
-Foo
+Foo on Branch B
