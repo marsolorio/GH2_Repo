@@ -1,3 +1,1 @@
-# GH2_Repo
-Foo FUM on Branch A
-
+Hi from Branch A
